@@ -55,9 +55,9 @@ Currently pursuing my M.S. in Computer Software Engineering at Northeastern Univ
  <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true&locale=en&theme=dark" alt="kshitijzutshi" /></p>
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayaslashkari&show_icons=true&locale=en&layout=compact" alt="kshitijzutshi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayaslashkari&show_icons=true&locale=en&layout=compact" alt="prayaslashkari" />
  
-![github stats](https://github-readme-stats.vercel.app/api?username=prayaslashkari&show_icons=true) 
+![github stats](https://github-readme-stats.vercel.app/api?username=prayaslashkari&show_icons=true&include_all_commits=true) 
  
 ### 📝 My Latest Blog Posts in Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prayaslashkari98/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prayaslashkari98/0" alt="Recent Article_0"></a>
