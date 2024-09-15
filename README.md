@@ -1,12 +1,10 @@
-### Hey there 👋 I am Prayas Lashkari ! 
+### Hi, I'm Prayas 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayaslashkari&label=Profile%20views&color=0e75b6&style=flat" alt="prayaslashkari" /> </p>
 
 #### Passionate about Web & Mobile Apps 🚀
 
 #### Web Development | Mobile App Development | Software Engineering
-
-### Hi, I'm Prayas 👋
 
 I'm a Software Engineer with over 4 years of experience in Mobile and Web Development. I have a keen eye for design, combined with a strong focus on performance optimization and technical documentation. I enjoy building products that blend seamless user experiences with scalable technologies.
 
