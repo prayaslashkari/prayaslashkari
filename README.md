@@ -6,7 +6,7 @@
 
 #### Web Development | Mobile App Development | Software Engineering
 
-I'm a Software Engineer with over 4 years of experience in Mobile and Web Development. I have a keen eye for design, combined with a strong focus on performance optimization and technical documentation. I enjoy building products that blend seamless user experiences with scalable technologies.
+I'm a Software Engineer with over 5 years of experience in Mobile and Web Development. I have a keen eye for design, combined with a strong focus on performance optimization and technical documentation. I enjoy building products that blend seamless user experiences with scalable technologies.
 
 Currently pursuing my M.S. in Computer Software Engineering at Northeastern University, I’m always excited about learning new things and solving challenging problems. Check out some of my projects and feel free to connect!
 
