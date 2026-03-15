@@ -19,8 +19,8 @@ Currently pursuing my M.S. in Computer Software Engineering at Northeastern Univ
 
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [React Native Calling App](https://github.com/prayaslashkari/RNCallingApp)                         
-| [React.js based Code Editor](https://github.com/prayaslashkari/elephant-editor)
+| [SawGraph]([https://github.com/prayaslashkari/RNCallingApp](https://github.com/SAWGraph/explorer-app))                         
+| [Compass - Chrome Extension](https://chromewebstore.google.com/detail/compass/ekcoiimllgheilmgmnhkghbkpopgmobd?authuser=0&hl=en-GB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
